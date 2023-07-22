@@ -11,4 +11,6 @@ https://github.com/ayushkhatiwada/AWS-Deepracer/assets/114440215/011c7628-97c4-4
 
 ![2nd_place_virtual_race](https://github.com/ayushkhatiwada/AWS-Deepracer/assets/114440215/de5d4851-96ab-4a34-b3e0-3fc34c819dd4)
 
+https://github.com/ayushkhatiwada/AWS-Deepracer/assets/114440215/939f232b-7375-4fee-9f6e-e6e6538c58c5
+
 ![deepracer_3rd_place_physical_race](https://github.com/ayushkhatiwada/AWS-Deepracer/assets/114440215/abbeb3d7-c2fb-4c0d-a910-bbfc927a0bb1)
